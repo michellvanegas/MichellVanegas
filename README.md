@@ -1,11 +1,5 @@
 ### Hola mi nombre es Michell 👋
 
-<!--
-**michellvanegas/MichellVanegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 🌱 Actualmente estoy aprendiendo REACT.
 
 💬 Puedes preguntarme sobre JavaScript, HTML, CSS.
