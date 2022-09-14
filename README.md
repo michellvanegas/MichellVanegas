@@ -4,7 +4,7 @@
 
 💬 Puedes preguntarme sobre JavaScript, HTML, CSS.
 
-🐶 Soy una mamá de una hermosa perrita.
+🐶 Soy  mamá de una hermosa perrita.
 
 ⚡ Dato curioso: Me encanta la pizza con piña.
 
